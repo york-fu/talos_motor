@@ -1,0 +1,6 @@
+OBJ/
+USER/
+!USER/*.c
+!USER/*.h
+!USER/*.uvprojx
+**.vscode
